@@ -1,3 +1,4 @@
+
 public class SmartTv {
     Boolean ligada = false;
     int canal = 5;
