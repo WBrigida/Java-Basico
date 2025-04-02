@@ -1,4 +1,4 @@
-package introducao.para;
+package Introducao.para;
 
 import java.util.Locale;
 import java.util.Scanner;

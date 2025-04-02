@@ -1,4 +1,4 @@
-package introducao.enquanto;
+package Introducao.enquanto;
 
 import java.util.Scanner;
 

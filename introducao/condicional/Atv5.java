@@ -1,4 +1,4 @@
-package introducao.condicional;
+package Introducao.condicional;
 
 import java.util.Locale;
 import java.util.Scanner;
