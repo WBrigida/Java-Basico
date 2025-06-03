@@ -1,9 +1,9 @@
-package OrientacaoObjeto.Aplication;
+package Aplication;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import OrientacaoObjeto.Entities.Product;
+import Entities.Product;
 
 public class ProgramTV {
 
@@ -21,6 +21,8 @@ public class ProgramTV {
         product.quantity = sc.nextInt();
 
         System.out.println(product);
+
+        sc.close();
 
     }
 

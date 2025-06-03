@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import Entities.Rectangle;
 
-public class Program2 {
+public class Rectan {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

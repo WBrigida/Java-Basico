@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import Entities.Student;
 
-public class Program4 {
+public class Stude {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);

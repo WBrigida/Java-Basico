@@ -1,4 +1,4 @@
-package OrientacaoObjeto.Entities;
+package Entities;
 
 public class Product {
 

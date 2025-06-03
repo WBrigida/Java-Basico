@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 import Entities.Employee;
 
-public class Program3 {
+public class Employ {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
